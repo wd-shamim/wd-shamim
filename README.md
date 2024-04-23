@@ -18,7 +18,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left" style="border: 1px solid #ccc; padding: 10px; background-color: #f9f9f9;" width="100%"> 
-    <a href="https://seotoolsplus.com" target="_blank" rel="noreferrer">
+    <a href="https://seotoolsplus.com" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40" style="background-color: #3ddc84; padding: 5px; border-radius: 5px; margin-right: 5px;"/>
     </a>
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
@@ -66,7 +66,7 @@
     <a href="https://nodejs.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" style="background-color: #339933; padding: 5px; border-radius: 5px; margin-right: 5px;"/>
     </a>
-    <a href="https://avethemes.com" target="_blank" rel="noreferrer">
+    <a href="https://avethemes.com" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" style="background-color: #777BB4; padding: 5px; border-radius: 5px; margin-right: 5px;"/>
     </a>
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
