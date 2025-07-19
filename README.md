@@ -69,7 +69,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center"> 
-  <img src="https://github-profile-trophy.vercel.app/?username=wd-shamim&theme=onedark&no-frame=true&no-bg=true&margin-w=15&column=7" alt="wd-shamim" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=wd-shamim&theme=onedark&no-frame=true&no-bg=true&margin-w=4&column=8&row=1" alt="wd-shamim" />
 </p>
 
 ---
